@@ -1,4 +1,4 @@
-# WEB-DESIGN-LAB1
+# WEB-DESIGN
 Лабораторна робота номер 1 з дисципліни Web-Design : "Створення статичного Web-сайту засобами HTML5, CSS3 та Twitter Bootstrap 4" . Шевченко Дмитро з КВ-73. Варіант 22
 ![](screen/1.png)
 ![](screen/2.png)
